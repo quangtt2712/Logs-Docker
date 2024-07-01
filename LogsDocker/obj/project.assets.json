@@ -683,11 +683,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\code\\LogsDocker\\LogsDocker\\LogsDocker.csproj",
+      "projectUniqueName": "D:\\code\\c#\\LogsDocker\\LogsDocker\\LogsDocker.csproj",
       "projectName": "LogsDocker",
-      "projectPath": "D:\\code\\LogsDocker\\LogsDocker\\LogsDocker.csproj",
+      "projectPath": "D:\\code\\c#\\LogsDocker\\LogsDocker\\LogsDocker.csproj",
       "packagesPath": "C:\\Users\\2uang\\.nuget\\packages\\",
-      "outputPath": "D:\\code\\LogsDocker\\LogsDocker\\obj\\",
+      "outputPath": "D:\\code\\c#\\LogsDocker\\LogsDocker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\2uang\\AppData\\Roaming\\NuGet\\NuGet.Config",
